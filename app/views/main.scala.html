@@ -8,14 +8,33 @@
 
 <!DOCTYPE html>
 <html lang="en">
-    <head>
+<style>
+body {
+  background-image: url('http://adwallpapers.xyz/uploads/posts/1930-dark-blue-grunge-background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+ }
+</style>    <head>
         @* Here's where we render the page title `String`. *@
         <title>@title</title>
         <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/main.css")">
-        <link rel="shortcut icon" type="image/png" href="@routes.Assets.versioned("images/favicon.png")">
-
+        <link rel="shortcut icon" type="image/png" href="@routes.Assets.versioned("images/alloy-small.png")">
     </head>
-    <body>
+    <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
+      <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
+        <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"/></svg>
+        <span class="fs-4">@title</span>
+      </a>
+      <!-- <ul class="nav nav-pills">
+        <li class="nav-item"><a href="#" class="nav-link active" aria-current="page">Home</a></li>
+        <li class="nav-item"><a href="#" class="nav-link">Features</a></li>
+        <li class="nav-item"><a href="#" class="nav-link">Pricing</a></li>
+        <li class="nav-item"><a href="#" class="nav-link">FAQs</a></li>
+        <li class="nav-item"><a href="#" class="nav-link">About</a></li>
+      </ul>-->
+    </header>
+     <body>
         @* And here's where we render the `Html` object containing
          * the page content. *@
         @content

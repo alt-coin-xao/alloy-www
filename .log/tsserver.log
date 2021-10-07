@@ -1,0 +1,37 @@
+Info 0    [19:49:02.095] Starting TS Server
+Info 1    [19:49:02.098] Version: 4.3.5
+Info 2    [19:49:02.098] Arguments: /usr/bin/node /usr/bin/tsserver --logFile /home/gjones/src/github/alloy-www/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/37dd6c11a9c21871616d989bd6f2c28f/tscancellation*
+Info 3    [19:49:02.098] Platform: linux NodeVersion: 14 CaseSensitive: true
+Info 4    [19:49:02.098] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [19:49:02.119] Search path: /home/gjones/src/github/alloy-www/public/javascripts
+Info 6    [19:49:02.123] For info: /home/gjones/src/github/alloy-www/public/javascripts/main.js :: No config files found.
+Info 7    [19:49:02.128] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 8    [19:49:03.501] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 1372.3298580050468ms
+Info 9    [19:49:03.501] Project '/dev/null/inferredProject1*' (Inferred)
+Info 10   [19:49:03.501] 	Files (19)
+
+Info 11   [19:49:03.501] -----------------------------------------------
+Info 12   [19:49:29.049] Search path: /home/gjones/src/github/alloy-www/public/javascripts
+Info 13   [19:49:29.049] For info: /home/gjones/src/github/alloy-www/public/javascripts/main-orig.js :: No config files found.
+Info 14   [19:49:29.050] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 15   [19:49:29.064] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: true Elapsed: 14.462323993444443ms
+Info 16   [19:49:29.066] Project '/dev/null/inferredProject1*' (Inferred)
+Info 17   [19:49:29.066] 	Files (19)
+
+Info 18   [19:49:29.066] -----------------------------------------------
+Info 19   [19:54:51.760] Search path: /home/gjones/src/github/alloy-www/target/web/classes/main/META-INF/resources/webjars/alloy/1.0-SNAPSHOT/javascripts
+Info 20   [19:54:51.761] For info: /home/gjones/src/github/alloy-www/target/web/classes/main/META-INF/resources/webjars/alloy/1.0-SNAPSHOT/javascripts/main.js :: No config files found.
+Info 21   [19:54:51.763] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 22   [19:54:51.776] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 1 structureChanged: true Elapsed: 12.531040996313095ms
+Info 23   [19:54:51.776] Project '/dev/null/inferredProject2*' (Inferred)
+Info 24   [19:54:51.776] 	Files (19)
+
+Info 25   [19:54:51.776] -----------------------------------------------
+Info 26   [19:56:09.065] Search path: /home/gjones/src/github/alloy-www/target/web/coffeescript/main/javascripts
+Info 27   [19:56:09.065] For info: /home/gjones/src/github/alloy-www/target/web/coffeescript/main/javascripts/main.js :: No config files found.
+Info 28   [19:56:09.066] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 29   [19:56:09.075] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 1 structureChanged: true Elapsed: 9.158569008111954ms
+Info 30   [19:56:09.076] Project '/dev/null/inferredProject3*' (Inferred)
+Info 31   [19:56:09.076] 	Files (19)
+
+Info 32   [19:56:09.076] -----------------------------------------------

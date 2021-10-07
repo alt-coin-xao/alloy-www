@@ -9,6 +9,7 @@ scalaVersion := "2.13.6"
 
 libraryDependencies += guice
 libraryDependencies += "org.scalatestplus.play" %% "scalatestplus-play" % "5.0.0" % Test
+libraryDependencies += "org.webjars" % "bootstrap" % "5.1.1"
 
 // Adds additional packages into Twirl
 //TwirlKeys.templateImports += "allooy.hopto.org.controllers._"
