@@ -1,16 +1,16 @@
 {
     "version": "1.4.0",
     "project": {
-        "name": "alloy-www-build",
-        "directory": "/home/gjones/src/github/alloy-www/project",
-        "workspaceDir": "/home/gjones/src/github/alloy-www/project",
+        "name": "www-alloy-build",
+        "directory": "/home/gjones/src/github/alt-coin-xao/www-alloy/project",
+        "workspaceDir": "/home/gjones/src/github/alt-coin-xao/www-alloy/project",
         "sources": [
-            "/home/gjones/src/github/alloy-www/project/src/main/scala",
-            "/home/gjones/src/github/alloy-www/project/src/main/scala-2.12",
-            "/home/gjones/src/github/alloy-www/project/src/main/scala-2",
-            "/home/gjones/src/github/alloy-www/project/src/main/java",
-            "/home/gjones/src/github/alloy-www/project/src/main/scala-sbt-1.0",
-            "/home/gjones/src/github/alloy-www/project/target/scala-2.12/sbt-1.0/src_managed/main"
+            "/home/gjones/src/github/alt-coin-xao/www-alloy/project/src/main/scala",
+            "/home/gjones/src/github/alt-coin-xao/www-alloy/project/src/main/scala-2.12",
+            "/home/gjones/src/github/alt-coin-xao/www-alloy/project/src/main/scala-2",
+            "/home/gjones/src/github/alt-coin-xao/www-alloy/project/src/main/java",
+            "/home/gjones/src/github/alt-coin-xao/www-alloy/project/src/main/scala-sbt-1.0",
+            "/home/gjones/src/github/alt-coin-xao/www-alloy/project/target/scala-2.12/sbt-1.0/src_managed/main"
         ],
         "dependencies": [
             
@@ -182,11 +182,11 @@
             "/home/gjones/.cache/coursier/v1/https/repo1.maven.org/maven2/org/eclipse/jetty/jetty-io/9.4.5.v20170502/jetty-io-9.4.5.v20170502.jar",
             "/home/gjones/.cache/coursier/v1/https/repo1.maven.org/maven2/org/eclipse/jetty/jetty-util/9.4.5.v20170502/jetty-util-9.4.5.v20170502.jar"
         ],
-        "out": "/home/gjones/src/github/alloy-www/project/.bloop/alloy-www-build",
-        "classesDir": "/home/gjones/src/github/alloy-www/project/.bloop/alloy-www-build/scala-2.12/sbt-1.0/classes",
+        "out": "/home/gjones/src/github/alt-coin-xao/www-alloy/project/.bloop/www-alloy-build",
+        "classesDir": "/home/gjones/src/github/alt-coin-xao/www-alloy/project/.bloop/www-alloy-build/scala-2.12/sbt-1.0/classes",
         "resources": [
-            "/home/gjones/src/github/alloy-www/project/src/main/resources",
-            "/home/gjones/src/github/alloy-www/project/target/scala-2.12/sbt-1.0/resource_managed/main"
+            "/home/gjones/src/github/alt-coin-xao/www-alloy/project/src/main/resources",
+            "/home/gjones/src/github/alt-coin-xao/www-alloy/project/target/scala-2.12/sbt-1.0/resource_managed/main"
         ],
         "scala": {
             "organization": "org.scala-lang",
@@ -204,7 +204,7 @@
                 "/home/gjones/.sbt/boot/scala-2.12.13/lib/scala-reflect.jar",
                 "/home/gjones/.sbt/boot/scala-2.12.13/lib/jansi.jar"
             ],
-            "analysis": "/home/gjones/src/github/alloy-www/project/target/streams/compile/bloopAnalysisOut/_global/streams/inc_compile_2.12.zip",
+            "analysis": "/home/gjones/src/github/alt-coin-xao/www-alloy/project/target/streams/compile/bloopAnalysisOut/_global/streams/inc_compile_2.12.zip",
             "setup": {
                 "order": "mixed",
                 "addLibraryToBootClasspath": true,
@@ -279,7 +279,7 @@
             "config": {
                 "home": "/home/gjones/.local/opt/jdk-11.0.2",
                 "options": [
-                    "-Duser.dir=/home/gjones/src/github/alloy-www/project"
+                    "-Duser.dir=/home/gjones/src/github/alt-coin-xao/www-alloy/project"
                 ]
             },
             "mainClass": [

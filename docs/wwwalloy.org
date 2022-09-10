@@ -1,0 +1,12 @@
+#+title: wwwalloy
+
+* Build Instructions
+Some text
+* Deployment
+Some Text
+* Abstract
+Some Text
+* Future Plans for the website
+Some Text
+* Web Site Design
+Some Text
